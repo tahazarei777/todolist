@@ -1,0 +1,107 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="81" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyAbstractClassInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="asgiref" />
+          <option value="attrs" />
+          <option value="blinker" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="coreapi" />
+          <option value="coreschema" />
+          <option value="cryptography" />
+          <option value="Django" />
+          <option value="django-colorfield" />
+          <option value="django-cors-headers" />
+          <option value="django-extensions" />
+          <option value="django-filter" />
+          <option value="django-seed" />
+          <option value="djangorestframework" />
+          <option value="djangorestframework_simplejwt" />
+          <option value="dotenv" />
+          <option value="drf-spectacular" />
+          <option value="Faker" />
+          <option value="Flask" />
+          <option value="idna" />
+          <option value="importlib-metadata" />
+          <option value="inflection" />
+          <option value="itsdangerous" />
+          <option value="itypes" />
+          <option value="jalali_core" />
+          <option value="jdatetime" />
+          <option value="Jinja2" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="MarkupSafe" />
+          <option value="more-itertools" />
+          <option value="numpy" />
+          <option value="oauthlib" />
+          <option value="openapi-codec" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="psycopg2-binary" />
+          <option value="pycparser" />
+          <option value="PyJWT" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="python-slugify" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="referencing" />
+          <option value="reportlab" />
+          <option value="requests" />
+          <option value="rpds-py" />
+          <option value="simplejson" />
+          <option value="six" />
+          <option value="sqlparse" />
+          <option value="text-unidecode" />
+          <option value="toposort" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="uritemplate" />
+          <option value="urllib3" />
+          <option value="Werkzeug" />
+          <option value="xlsxwriter" />
+          <option value="zipp" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E301" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="sum" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="djangorestframework" />
+          <option value="celery" />
+          <option value="pandas" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
